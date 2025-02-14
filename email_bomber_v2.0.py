@@ -30,8 +30,8 @@ def banner():
      ''')
 
 
-class EmailBomber:
-    count = 0
+class EmailBomber: comcastpaeller@yahoo.com
+    count = 3
 
     def __init__(self):
         self.countFactor = None
